@@ -1,6 +1,6 @@
-# Teste de Fullstack Ecommerce Venda e Troca
+# Exemplo Fullstack
 
-Solução BackEnd em Node.js com Express.js, autenticação com jwt e banco de dados mongodb para criação das Api e FrontEnd em ReactJS
+Solução BackEnd em Node.js com Express.js, autenticação com jwt e banco de dados mongodb para criação das Api e Frontend em ReactNative para mobile
 
 ## Iniciando Server
 
